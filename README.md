@@ -17,22 +17,22 @@
 ## 💻 Languages and Tools
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=python,java,cpp,js,ts)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js)](https://skillicons.dev)
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,next)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react)](https://skillicons.dev)
 
 ### Backend
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Database
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Design & Visualization
 [![Design](https://skillicons.dev/icons?i=figma,powerbi)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,notion,windows,ubuntu)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
