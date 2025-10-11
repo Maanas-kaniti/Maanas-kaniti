@@ -29,7 +29,8 @@
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### Design & Visualization
-[![Design](https://skillicons.dev/icons?i=figma,powerbi)](https://skillicons.dev)
+[![Design](https://skillicons.dev/icons?i=figma,powerbi)](https://skillicons.dev) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
