@@ -60,5 +60,6 @@
 ---
 
 [![Visitor Count](https://visitcount.itsvg.in/api?id=Maanas-kaniti&icon=1&color=3)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=maanas-kaniti&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
