@@ -45,7 +45,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Maanas-kaniti&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
