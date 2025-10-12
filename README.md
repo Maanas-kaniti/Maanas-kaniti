@@ -1,4 +1,4 @@
-# 👨‍💻 Maanas Kaniti
+# 👨‍💻 Hello!, I'm Maanas Kaniti
 ## 💫 About Me
 👋 Hi, I’m Maanas  
 🎓 4th-year B.tech student in Institute of Aeronautical Engineering - Data Science                                
