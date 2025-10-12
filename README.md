@@ -58,8 +58,4 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Maanas-kaniti&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Maanas-kaniti&icon=1&color=3)](https://visitcount.itsvg.in)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=maanas-kaniti&icon=1&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
