@@ -2,6 +2,7 @@
 ## 💫 About Me
 👋 Hi, I’m Maanas  
 🎓 4th-year B.tech student in Institute of Aeronautical Engineering - Data Science
+
 💡 Passionate about software development, AI, and web technologies  
 💻 Currently exploring MERN stack and deep learning projects  
 🚀 Working on real-world projects and internship-based learning  
