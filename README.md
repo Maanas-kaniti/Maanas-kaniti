@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maanas-kaniti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maanas-kaniti&theme=dark&hide_border=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Maanas-kaniti&theme=dark&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Maanas-kaniti&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
